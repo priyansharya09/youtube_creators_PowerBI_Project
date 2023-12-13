@@ -6,8 +6,8 @@ This project is based on analyzing YouTube channel data using Power BI. The data
 The main data source for this project is an Excel file named "Global YouTube Statistics.xlsx", which contains three sheets:
 
 - The first sheet has information about individual YouTube creators, such as their channel name, category, country, subscribers, views, etc. This data was obtained from Kaggle.
-- The second sheet has the daily subscriber count of the top 50 YouTube channels from January 1, 2020 to December 31, 2020. This data was scraped from Social Blade.
-- The third sheet has the daily view count of the top 50 YouTube channels from January 1, 2020 to December 31, 2020. This data was also scraped from Social Blade.
+- The second sheet has the daily subscriber count of the top 50 YouTube channels from December 10, 2021 to November 27, 2023. This data was scraped from Social Blade.
+- The third sheet has the daily view count of the top 50 YouTube channels from December 10, 2021 to November 27, 2023. This data was also scraped from Social Blade.
 
 You can download the Excel file from this link: https://github.com/priyansharya09/youtube_creators_PowerBI_Project/blob/main/Global%20YouTube%20Statistics.xlsx
 
